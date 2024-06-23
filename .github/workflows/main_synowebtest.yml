@@ -53,5 +53,5 @@ jobs:
         with:
           app-name: 'SynoWebTest'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_C47C9AD2FA6749E1B406256BED8B1C51 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_75A07A68DCD14EB4B87AA4838F5EDADC }}
           package: .
